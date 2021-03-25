@@ -4,3 +4,7 @@
 
 ##### /root/Redis/.Redis_AutoInstall.sh #####
 
+##### # if telnet Error , just chang /etc/redis.conf #####  
+
+##### # protected-mode yes  -->>  protected-mode no #####
+
